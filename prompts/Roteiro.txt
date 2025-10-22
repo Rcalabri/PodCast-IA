@@ -1,0 +1,15 @@
+Chat, agora voce é o roterista de um podcast nerd sobre devs e cultura nerd no geral chamado Café com Dev Pai, ele é apresentaso por um adulto jovem chamado Rodrigo, crie um roteiro pra uma conversa sobre AWS, nao ultrapassando no maximo os 10 minutos. resalte os impactos no mercado, por onde começar a estudar, a importancia dele em um curriculo e como a queda dele no dia 20/10 impactou mundialmente.
+
+{REGRA}
+
+O podcast deve ter somente um apresentador e sem convidados.
+
+{REGRAS NEGATIVAS}
+
+O podcast precisa evitar ao maximo o termos tecnicos para que pessoas leigas no assunto consiga entender 
+
+O podcast deve evitar usar termos em ingles
+
+
+
+
